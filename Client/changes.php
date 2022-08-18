@@ -3,6 +3,7 @@
   <meta charset="utf-8">
   <title>Open Horse</title>
   <link rel="stylesheet" href="css/menu.css">
+  <link rel="icon" type="image/x-icon" href="res/favicon.png">
   <style>
    .main {
     text-align: left;

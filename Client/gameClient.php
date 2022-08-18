@@ -3,6 +3,7 @@
    <!-- OpenHorse proyect -->
    <title>OpenHorse 1.0</title>
    <link rel="stylesheet" href="css/ingame.css">
+   <link rel="icon" type="image/x-icon" href="res/favicon.png">
  </head>
  <body>
    <!-- THIS IS THE LOADING FOR THE TEXTURES -->
