@@ -1,0 +1,25 @@
+canvas {
+ padding: 0;
+ position: absolute;
+ left: 0;
+ top: 0;
+ margin-left: 0px;
+ margin-right: 0px;
+ width: 100%;
+ height: 100%;
+}
+
+.gamerender{
+ z-index: 0;
+ /*background-color: #25ab28;*/
+ background-image: url("../res/background.png");
+ background-repeat: repeat;
+}
+
+.namerender{
+ z-index: 1;
+}
+
+.interactsc{
+ z-index: 9999; 
+}
