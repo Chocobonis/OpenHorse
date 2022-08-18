@@ -153,6 +153,9 @@
      <input class="setname" type="text" value="insert your username here!"
       id="ponyname" name="ponyname"><br>
      <!-- PONY DRAWING PREVIEW -->
+     <!-- PONY PREVIEW RESOURCES LOADING -->
+      <img src="res/debug.png" id="PonyBody" hidden></img>
+     <!-- .............................. -->
      <canvas class="preview" id="ponyEdit"></canvas>
      <script src="src/editor1.js"></script>
      <!-- .................... -->
